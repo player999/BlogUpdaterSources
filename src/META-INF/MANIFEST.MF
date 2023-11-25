@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: jgit.jar jna-4.5.0.jar dirgra-0.3.jar jffi-1.3.1.jar okio-1.
+ 6.0.jar args4j-2.33.jar joni-2.1.31.jar jzlib-1.1.3.jar ognl-3.1.26.jar
+  options-1.4.jar groovy-3.0.7.jar jade4j-1.3.2.jar jsoup-1.13.1.jar okh
+ ttp-2.7.5.jar pebble-3.1.5.jar backport9-1.8.jar autolink-0.6.0.jar jru
+ by-9.2.14.0.jar lz4-java-1.4.0.jar flexmark-0.62.2.jar jcodings-1.0.46.
+ jar jcommander-1.72.jar jnr-netdb-1.2.0.jar jnr-posix-3.1.4.jar annotat
+ ions-15.0.jar commons-io-2.8.0.jar commons-lang-2.6.jar groovy-xml-3.0.
+ 7.jar jbake-core-2.6.7.jar jnr-enxio-0.32.3.jar joda-time-2.10.5.jar sl
+ f4j-api-1.7.30.jar freemarker-2.3.31.jar invokebinder-1.11.jar jffi-1.3
+ .1-native.jar json-simple-1.1.1.jar asciidoctorj-2.4.3.jar commons-jexl
+ -2.1.1.jar commons-vfs2-2.7.0.jar jna-platform-4.5.0.jar logback-core-1
+ .2.3.jar commons-logging-1.2.jar jackson-core-2.10.3.jar javassist-3.20
+ .0-GA.jar jruby-core-9.2.14.0.jar jul-to-slf4j-1.7.30.jar commons-lang3
+ -3.12.0.jar flexmark-util-0.62.2.jar jnr-constants-0.10.1.jar nailgun-s
+ erver-0.9.1.jar orientdb-core-3.0.37.jar groovy-dateutil-3.0.7.jar jcl-
+ over-slf4j-1.7.30.jar jnr-unixsocket-0.38.5.jar jruby-stdlib-9.2.14.0.j
+ ar logback-classic-1.2.3.jar asciidoctorj-api-2.4.3.jar groovy-template
+ s-3.0.7.jar flexmark-ext-ins-0.62.2.jar flexmark-ext-toc-0.62.2.jar jac
+ kson-databind-2.10.3.jar javax.servlet-api-3.1.0.jar unbescape-1.1.6.RE
+ LEASE.jar attoparser-2.0.5.RELEASE.jar flexmark-util-ast-0.62.2.jar had
+ oop-hdfs-client-3.3.0.jar thymeleaf-3.0.12.RELEASE.jar commons-collecti
+ ons-3.2.2.jar flexmark-ext-aside-0.62.2.jar flexmark-ext-emoji-0.62.2.j
+ ar flexmark-util-data-0.62.2.jar flexmark-util-html-0.62.2.jar flexmark
+ -util-misc-0.62.2.jar jetty-io-9.4.36.v20210114.jar asciidoctorj-diagra
+ m-2.1.0.jar commons-configuration-1.10.jar flexmark-ext-tables-0.62.2.j
+ ar jackson-annotations-2.10.3.jar javax.activation-api-1.2.0.jar javax.
+ annotation-api-1.3.1.jar flexmark-util-format-0.62.2.jar jetty-http-9.4
+ .36.v20210114.jar jetty-util-9.4.36.v20210114.jar flexmark-ext-autolink
+ -0.62.2.jar flexmark-ext-wikilink-0.62.2.jar flexmark-util-builder-0.62
+ .2.jar flexmark-util-options-0.62.2.jar flexmark-util-visitor-0.62.2.ja
+ r flexmark-ext-footnotes-0.62.2.jar flexmark-util-sequence-0.62.2.jar j
+ etty-server-9.4.36.v20210114.jar flexmark-ext-anchorlink-0.62.2.jar fle
+ xmark-ext-definition-0.62.2.jar flexmark-jira-converter-0.62.2.jar flex
+ mark-ext-superscript-0.62.2.jar flexmark-ext-typographic-0.62.2.jar fle
+ xmark-profile-pegdown-0.62.2.jar flexmark-util-collection-0.62.2.jar fl
+ exmark-util-dependency-0.62.2.jar flexmark-ext-abbreviation-0.62.2.jar 
+ flexmark-ext-gfm-tasklist-0.62.2.jar concurrentlinkedhashmap-lru-1.4.2.
+ jar flexmark-ext-escaped-character-0.62.2.jar flexmark-ext-gfm-striketh
+ rough-0.62.2.jar flexmark-ext-yaml-front-matter-0.62.2.jar flexmark-ext
+ -jekyll-front-matter-0.62.2.jar jsch.jar org.eclipse.jgit.ssh.jsch.jar
+

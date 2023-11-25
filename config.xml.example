@@ -1,0 +1,7 @@
+<Configuration>
+    <UserName>uname</UserName>
+    <FullName>First Last</FullName>
+    <Email>username@domain.com</Email>
+    <RepoURI>git@github.com:uname/repo.git</RepoURI>
+    <PrivateKey>C:\Path\to\private\key</PrivateKey>
+</Configuration>
