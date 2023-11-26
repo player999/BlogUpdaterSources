@@ -57,7 +57,6 @@ public class BlogSsh {
             git.reset().setMode(ResetCommand.ResetType.HARD).setRef("origin/" + branch).call();
             git.close();
         } else {
-            Files.createDirectory(Paths.get(directory));
             Git.cloneRepository().setURI(configuration.getRepoUri())
                     .setBranch(branch)
                     .setDirectory(new File(directory))
